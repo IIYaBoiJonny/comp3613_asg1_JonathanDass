@@ -1,5 +1,12 @@
 Im sorry i deleted all ur stuff here, they were actually pretty helpful to get my bearings:
 
+Internship Platform
+An app for staff to shortlist students to internship opportunities
+(Employer) create internship position
+(Staff) Add student to an internship positions shortlist
+(Employer) accept/reject student from shortlist
+(Student) view shortlisted positions and employer response
+
 Employer Cmds:
 
   create                   Create an employer
